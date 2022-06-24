@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Segoe UI", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url("red.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.alt{
+    text-align: center;
+    background-color: #143887;
+    box-shadow: 0 8px 8px 0 #0a2342;
+    height: 500px;
+    width: 90px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.home{
+    text-decoration: none;
+    margin-left: 200px;
+    padding-left: 100px;
+    color: blue;
+    font-weight: bold;
+}
+.free{
+    text-decoration: none;
+    margin-left: 20px;
+    color: blue;
+    font-weight: bold;
+}
+.pro{
+    text-decoration: none;
+    margin-left: 20px;
+    color: blue;
+    font-weight: bold;
+}
+.art{
+    text-decoration: none;
+    margin-left: 20px;
+    color: blue;
+    font-weight: bold;
+}
+.logo{
+    vertical-align: button;
+    width: 100px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+h2{
+    margin-left: 200px;
+    padding-left: 200px;
+    margin-top: 30px;
+    color: white;
+}
+.text{
+    width: 400px;
+    margin-left: 400px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 250px;
+}
+p{
+    color: rgb(249, 163, 4);
+}
+b{
+    color: rgb(213, 140,5);
+    font-weight: bolder;
+}
+.hire{
+    padding-left: 200px;
+    margin-left: 100px;
+    line-height: 30px;
+}
+.more{
+    padding-left: 200px;
+}
+.first button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.fre{
+    background-color: #f46197;
+    color: white;
+    border: none;
+}
+.as{
+    background-color: limegreen;
+    color: white;
+    border: none;
+}
+.job{
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
+.reg{
+    background-color: #ff6b6c;
+    color: white;
+    border: none;
+    
+}
+.channel{
+    text-align: center;
+    color: blueviolet;
+    font-weight: bolder;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.ads{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+}
+.host{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: #f46197;
+    color: white;
+    border: none;
+}
+.go{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: limegreen;
+    color: white;
+    border: none;
+}
+.pay{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: #ff6b6c;
+    color: white;
+    border: none;
+}
+.bank{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 30px;
+    background-color: #fffdf7;
+    color: black;
+    border: none;
+}
+.icon{
+    margin-left: 100px;
+}
